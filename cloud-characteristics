@@ -5,3 +5,13 @@ Cloud Characteristics - as per NIST
 3. Resource pooling
 4. Rapid Elasticity
 5. Measured Service
+
+hypervisor - special os that helps normal os to run.
+In cloud you always get a virtual machine. Some company also gives - bare metal server (physical servers)
+
+Multi tenant  - vm belongs to different accounts but using same hypervisor.
+Single tenant - vm belongs to single account on a physical server.
+
+Virtualization at Storage - RAID
+Storage are real from where we can carve out virtual disk for storage. (Volume Manager)
+Enterprise storage is always virtual - volumes (no physical disk)
