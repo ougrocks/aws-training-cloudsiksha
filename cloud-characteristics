@@ -15,3 +15,8 @@ Single tenant - vm belongs to single account on a physical server.
 Virtualization at Storage - RAID
 Storage are real from where we can carve out virtual disk for storage. (Volume Manager)
 Enterprise storage is always virtual - volumes (no physical disk)
+
+Container - like a VM but at OS level.
+take the image of container and use the same image on different machine.
+
+Private Cloud, Public Cloud, Community Cloud and Hybrid Cloud
